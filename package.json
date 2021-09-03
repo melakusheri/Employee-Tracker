@@ -1,0 +1,22 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melakusheri/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melakusheri/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/melakusheri/Employee-Tracker#readme",
+  "dependencies": {
+    "install": "^0.13.0"
+  }
+}
