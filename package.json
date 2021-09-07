@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "mongo-seeding": "^3.7.0",
+    "mysql": "^2.18.1",
+    "run": "^1.4.0",
+    "seed": "^0.4.4"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -16,12 +24,5 @@
   "bugs": {
     "url": "https://github.com/melakusheri/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/melakusheri/Employee-Tracker#readme",
-  "dependencies": {
-    "inquire": "^0.4.8",
-    "inquirer": "^8.1.2",
-    "mysql": "github:mysqljs/mysql",
-    "run": "^1.4.0",
-    "seed": "^0.4.4"
-  }
+  "homepage": "https://github.com/melakusheri/Employee-Tracker#readme"
 }
